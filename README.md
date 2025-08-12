@@ -34,7 +34,7 @@ Para acessar o conteúdo localmente:
 
 1. **Clone o repositório** em sua máquina:
    ```bash ou CMD
-   git clone https://github.com/zahroniel-syrran/ProgWeb.git
+   git clone https://github.com/zahroniel-syrran/Artigo-e-TCC.git
 Navegue pelas pastas para acessar os materiais:
 cd ProgrammingAndAlgorithms
 Abra os arquivos com seu editor favorito ou navegador, conforme o tipo de conteúdo.
