@@ -21,7 +21,7 @@ Ler pelo menos dois deles, para compreender como é a redação científica.
 - http://revistas.poli.br/index.php/repa/issue/view/17/14
 - https://www.brazilianjournals.com/index.php/BRJD/article/view/22618/18112
 - https://www.scielo.br/scielo.php?pid=S1806-25172011000100026&script=sci_arttext&tlng=pt
-- https://repositorium.sdum.uminho.pt/bitstream/1822/68582/1/-Dissertação_Ana_Cristina_Azevedo_Rocha.pdf
+- https://repositorium.uminho.pt/bitstream/1822/68582/1/Dissertação_Ana_Cristina_Azevedo_Rocha.pdf
 - https://revista.unifagoc.edu.br/index.php/caderno/article/view/44/174
 - https://dialnet.unirioja.es/descarga/articulo/5165603.pdf
 - https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1082372/1/Custobovaplicativoparacontroledecusto.pdf
